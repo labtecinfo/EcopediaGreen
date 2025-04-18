@@ -8,3 +8,19 @@ img {
     max-width: 300px; /* Ajuste conforme necessário */
     height: auto;
 }
+body {
+    background-color: #e3f2e1; /* Verde claro */
+    color: #2e462f; /* Verde escuro para o texto */
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: #156e3a;
+    text-align: center;
+    font-size: 28px;
+}
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 250px;
+    height: auto;
+}
