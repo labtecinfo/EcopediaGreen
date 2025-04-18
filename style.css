@@ -25,7 +25,7 @@ img {
     height: auto;
 }
 .banner {
-    background-image: url("img/banner.png"); /* Substitua pelo nome correto da imagem */
+    background-image: url("banner.png"); /* Substitua pelo nome correto da imagem */
     background-size: cover;
     background-position: center;
     text-align: center;
